@@ -1,0 +1,7 @@
+C:\Users\betul\Desktop\WCF\WCF\KurlarService\bin\KurlarService.dll.config
+C:\Users\betul\Desktop\WCF\WCF\KurlarService\bin\KurlarService.dll
+C:\Users\betul\Desktop\WCF\WCF\KurlarService\bin\KurlarService.pdb
+C:\Users\betul\Desktop\WCF\WCF\KurlarService\obj\Debug\KurlarService.csproj.AssemblyReference.cache
+C:\Users\betul\Desktop\WCF\WCF\KurlarService\obj\Debug\KurlarService.csproj.CoreCompileInputs.cache
+C:\Users\betul\Desktop\WCF\WCF\KurlarService\obj\Debug\KurlarService.dll
+C:\Users\betul\Desktop\WCF\WCF\KurlarService\obj\Debug\KurlarService.pdb
