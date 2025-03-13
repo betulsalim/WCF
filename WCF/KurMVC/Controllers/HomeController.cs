@@ -11,7 +11,31 @@ namespace KurMVC.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View();
+            using (KurlarService.KurServiceClient client = new KurlarService.KurServiceClient())
+            {
+                if (TempData["Kurlar"] != null)
+                {
+                    ViewBag.Kurlar =(List<double>) TempData["Kurlar"];
+
+                }
+                else
+                {
+                    ViewBag.Kurlar = new List<double>();
+                }
+                    var paraBirimleri = client.ParaBirimileriGetir().ToList();
+                return View(paraBirimleri);
+
+            }
+           
+        }
+        public ActionResult KurlariGetir(string paraBirimi)
+        {
+            using(KurlarService.KurServiceClient client = new KurlarService.KurServiceClient())
+            {
+                var kurlar = client.KurlariGetir(paraBirimi).ToList();
+                TempData["Kurlar"] = kurlar;
+                return RedirectToAction("Index");
+            }
         }
     }
 }

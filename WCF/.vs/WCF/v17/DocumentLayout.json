@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\betul\\Desktop\\WCF\\WCF\\",
+  "WorkspaceRootPath": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{149B7D14-DEA8-4810-A502-9D6936479927}|KurlarService\\KurlarService.csproj|c:\\users\\betul\\desktop\\wcf\\wcf\\kurlarservice\\kurservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}|KurMVC\\KurMVC.csproj|c:\\users\\betul\\desktop\\wcfexample\\wcf\\kurmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}|KurMVC\\KurMVC.csproj|solutionrelative:kurmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}|KurMVC\\KurMVC.csproj|C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\kurmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}|KurMVC\\KurMVC.csproj|solutionrelative:kurmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}|KurMVC\\KurMVC.csproj|c:\\users\\betul\\desktop\\wcfexample\\wcf\\kurmvc\\views\\home\\kurlarlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}|KurMVC\\KurMVC.csproj|solutionrelative:kurmvc\\views\\home\\kurlarlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149B7D14-DEA8-4810-A502-9D6936479927}|KurlarService\\KurlarService.csproj|C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\kurlarservice\\kurservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{149B7D14-DEA8-4810-A502-9D6936479927}|KurlarService\\KurlarService.csproj|solutionrelative:kurlarservice\\kurservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{149B7D14-DEA8-4810-A502-9D6936479927}|KurlarService\\KurlarService.csproj|c:\\users\\betul\\desktop\\wcf\\wcf\\kurlarservice\\ikurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{149B7D14-DEA8-4810-A502-9D6936479927}|KurlarService\\KurlarService.csproj|C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\kurlarservice\\ikurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{149B7D14-DEA8-4810-A502-9D6936479927}|KurlarService\\KurlarService.csproj|solutionrelative:kurlarservice\\ikurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,29 +54,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KurlarListesi.cshtml",
+              "DocumentMoniker": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurMVC\\Views\\Home\\KurlarListesi.cshtml",
+              "RelativeDocumentMoniker": "KurMVC\\Views\\Home\\KurlarListesi.cshtml",
+              "ToolTip": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurMVC\\Views\\Home\\KurlarListesi.cshtml",
+              "RelativeToolTip": "KurMVC\\Views\\Home\\KurlarListesi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T06:40:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KurMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KurMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T13:00:30.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KurMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KurMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:52:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "KurService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\betul\\Desktop\\WCF\\WCF\\KurlarService\\KurService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurlarService\\KurService.svc.cs",
               "RelativeDocumentMoniker": "KurlarService\\KurService.svc.cs",
-              "ToolTip": "C:\\Users\\betul\\Desktop\\WCF\\WCF\\KurlarService\\KurService.svc.cs",
+              "ToolTip": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurlarService\\KurService.svc.cs",
               "RelativeToolTip": "KurlarService\\KurService.svc.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T11:35:51.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IKurService.cs",
-              "DocumentMoniker": "C:\\Users\\betul\\Desktop\\WCF\\WCF\\KurlarService\\IKurService.cs",
+              "DocumentMoniker": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurlarService\\IKurService.cs",
               "RelativeDocumentMoniker": "KurlarService\\IKurService.cs",
-              "ToolTip": "C:\\Users\\betul\\Desktop\\WCF\\WCF\\KurlarService\\IKurService.cs",
+              "ToolTip": "C:\\Users\\betul\\Desktop\\WCFExample\\WCF\\KurlarService\\IKurService.cs",
               "RelativeToolTip": "KurlarService\\IKurService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T11:35:45.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T11:35:45.174Z"
             }
           ]
         }

@@ -5,6 +5,11 @@ VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurlarService", "KurlarService\KurlarService.csproj", "{149B7D14-DEA8-4810-A502-9D6936479927}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurMVC", "KurMVC\KurMVC.csproj", "{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{149B7D14-DEA8-4810-A502-9D6936479927} = {149B7D14-DEA8-4810-A502-9D6936479927}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{149B7D14-DEA8-4810-A502-9D6936479927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{149B7D14-DEA8-4810-A502-9D6936479927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{149B7D14-DEA8-4810-A502-9D6936479927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA64BCBE-6DB3-4662-B12B-928142BF7C6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
